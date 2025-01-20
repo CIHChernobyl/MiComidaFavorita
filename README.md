@@ -79,3 +79,10 @@ Para ejecutar la aplicación en un emulador o dispositivo real, usa el siguiente
 npx expo start
 ```
 
+### Screenshots
+#### Pantalla de Registro
+![Image](https://github.com/user-attachments/assets/6744896e-22d2-4e36-be81-484347b7b001)
+#### Pantalla de Inicio de Sesión
+![Image](https://github.com/user-attachments/assets/deb5aece-6569-4d78-8aed-24a29dbe23af)
+#### Pantalla de Perfil
+![Image](https://github.com/user-attachments/assets/06adea98-6c7a-42c9-b5b8-5e6013e25ac9)
